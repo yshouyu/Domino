@@ -7,3 +7,4 @@ get card can be put on the table.
 2. There is no tools can be test,
 3. Shouyu Yang made everything in this project.
 4. The bug I have, The first is that the user cannot choose  which sides of the line when one card can be put at both sides, I can fix it if I have more time. The second one is I do not set a welcome intterface, I do not know is it a bug, so I just report it.
+And I found another bug at 9/24/2017, I found my jar cannot work because it cannot find those images, so if you want to run this code, plesae download all the files to run it. Thank you.
